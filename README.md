@@ -18,7 +18,7 @@ The characterized drug-like molecules active against coronavirus can contribute 
 Drug-like molecules, small molecules, can easily enter the cell and affect other molecules in the cell, such as proteins, hence potentially controlling cases like infecton and cancer. .
 
 mit.edu
-![Drug-like molecules](./static/Drug_like.png) 
+![Drug-like molecules](./Drug_like.png) 
 
 
 ## Packages and approaches
