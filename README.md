@@ -9,7 +9,7 @@ Approach: Data analysis and ML on Chembl data.
 * [Packages and approaches](#R)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Files] (#Files) 
+* [Files] (#files) 
 
 ## General info
 The characterized drug-like molecules active against coronavirus can contribute to the disease control measures.
@@ -42,4 +42,4 @@ Project is ongoing.
 Using bioinfomratics to characterize active small molecules to control infectioous diseases.
 
 ## Files 
-[Files](Ref codes) https://github.com/melaniaAB/Target_Bioactivity_Coronavirus)
+Ref codes: https://github.com/melaniaAB/Target_Bioactivity_Coronavirus)
