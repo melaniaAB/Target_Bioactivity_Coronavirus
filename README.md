@@ -42,4 +42,4 @@ Project is ongoing.
 Using bioinfomratics to characterize active small molecules to control infectioous diseases.
 
 ## Files 
-Ref codes: https://github.com/melaniaAB/Target_Bioactivity_Coronavirus)
+Ref codes: https://github.com/melaniaAB/Target_Bioactivity_Coronavirus
